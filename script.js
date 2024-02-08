@@ -1,4 +1,4 @@
-equire([
+require([
   "esri/Map",
   "esri/views/MapView",
   "esri/layers/FeatureLayer",
